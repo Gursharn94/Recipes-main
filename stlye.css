@@ -1,0 +1,41 @@
+#page {
+    background-color: dodgerblue;
+    text-align: center;
+}
+
+ul {list-style: circle;}
+ol {list-style-type: decimal;}
+
+img {width: 300px;
+    ;height: 350px;
+}
+
+#button {
+    background-color: whitesmoke;
+    color: black;
+    font-weight: bold;
+}
+
+.section {
+    text-align: left;
+    margin: 0;
+}
+
+
+.ingredients {
+    border: 5px red solid;    
+    margin: auto;
+    text-align: center;
+    padding: auto;
+    background-image: url();
+}
+
+.section ol {
+    border-style: solid;  
+    width: 90%;
+}
+
+.section {
+    font-size: 25px;
+    color: red;
+}
